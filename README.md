@@ -1,1 +1,1 @@
-# react_notes_destructuring_props
+Notes on how to destructure props. [console.log(props)] to check to see what props are used in the particular component. We can assign a default data for a particular prop at this time as well, in case there is a missing data(see the examples of 'image' and 'emoji.' Do not forget to replace anything that's written as [props.----] as [----].
